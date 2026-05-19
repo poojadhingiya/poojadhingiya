@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 - 💻 Software Engineer focused on **Full-Stack Development** and **Product Engineering**
 - ⚡ Skilled in building scalable applications using **React.js, Node.js, MongoDB & JavaScript**
-- 🧠 Solved **1500+ DSA problems** across coding platforms
+- 🧠 Solved **150+ DSA problems** across coding platforms
 - 🏗️ Interested in **System Design, Clean Architecture, and High-Performance Systems**
 - 🌱 Continuously learning modern technologies and scalable backend engineering
 - 🎯 Passionate about writing clean, maintainable, and efficient code
@@ -123,6 +123,8 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=poojadhingiya&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=poojadhingiya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+
+### ⭐ If you like my work, consider following me!
 
 </div>
