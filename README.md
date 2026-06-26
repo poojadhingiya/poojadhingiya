@@ -9,19 +9,19 @@
 <br/><br/>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Software Engineer focused on **Full-Stack Development** and **Product Engineering**
-- ⚡ Skilled in building scalable applications using **React.js, Node.js, MongoDB & JavaScript**
-- 🧠 Solved **150+ DSA problems** across coding platforms
-- 🏗️ Interested in **System Design, Clean Architecture, and High-Performance Systems**
-- 🌱 Continuously learning modern technologies and scalable backend engineering
-- 🎯 Passionate about writing clean, maintainable, and efficient code
+- 🎓 B.Tech Computer Science student specializing in Data Science & Artificial Intelligence
+- 🤖 Passionate about Machine Learning, Artificial Intelligence, Natural Language Processing, and Computer Vision
+- 💻 Building AI-powered applications using Python, Scikit-learn, TensorFlow, OpenCV, Pandas, NumPy, and Streamlit
+- 📊 Experienced in developing machine learning models for healthcare, predictive analytics, and computer vision projects
+- 🧪 Exploring Quantum Computing and its applications in Artificial Intelligence
+- 🌱 Continuously learning new technologies and improving my skills through projects, research, and internships
+- 🎯 Seeking opportunities to contribute to impactful AI and Machine Learning solutions
 
 ---
 
@@ -53,7 +53,28 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,java,cpp,python,html,css,tailwind,bootstrap,git,github,linux,vscode,figma" />
+### 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css" />
+
+<br><br>
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
