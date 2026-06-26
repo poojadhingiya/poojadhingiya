@@ -2,7 +2,7 @@
 
 # Hi, I'm Pooja Dhingiya 👋
 
-### Full-Stack Developer • Problem Solver • Product Engineering
+### AI & Machine Learning Enthusiast • Data Science Student • Python Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;1500%2B+DSA+Problems+Solved;Building+Scalable+Applications" />
 
